@@ -1,3 +1,6 @@
 [submodule "Fallen"]
 	path = Fallen
 	url = https://github.com/JackDanna/Fallen.git
+[submodule "FogentRoleplayTemplate"]
+	path = FogentRoleplayTemplate
+	url = https://github.com/JackDanna/FogentRoleplayTemplate.git
