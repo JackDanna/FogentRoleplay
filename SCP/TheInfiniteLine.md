@@ -55,8 +55,8 @@ Each  **station lasts ~20–25 minutes** , including travel time and brief recov
 
 ### 🛑 **Station 1: "Golgotha Red"**
 
-* **Description** : A red-hued primative desert city. Sky is always twilight.
-* **Weirdness** :  **No people** , but cameras mounted  *everywhere* . City built around a single  **massive statue of a human heart** .
+* **Description** : A red-hued primative desert city. The sun is blinding when they come out of the ground.
+* **Weirdness** :  A strange group of people  **No people** , but cameras mounted  *everywhere* . City built around a single  **massive statue of a human heart** .
 * **Signs** : Buildings display Class-D designations as if the PCs were honored.
 * **Challenge** : A drone follows them — looks like a Foundation bot but uses an unknown logo.
 * **Reveal** : This Earth  *worships SCPs as divine beings* .
